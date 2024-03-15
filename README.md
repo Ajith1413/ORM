@@ -1,4 +1,4 @@
-# Ex02 Django ORM Web Application
+# EXP 02 Django ORM Web Application
 ## Date: 
 
 ## AIM
@@ -43,7 +43,8 @@ class studentAdmin(admin.ModelAdmin):
 ```
 ## OUTPUT
 
-![image](https://github.com/Ajith1413/ORM/assets/139842524/9e24a985-6e8e-46d7-8886-d2ec96ed020e)
+![image](https://github.com/Ajith1413/ORM/assets/139842524/82089c47-afdd-48b7-a1ea-15bbfaeb5005)
+
 
 
 ## RESULT
